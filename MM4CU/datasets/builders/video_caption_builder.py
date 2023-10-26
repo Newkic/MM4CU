@@ -9,7 +9,7 @@ from video_llama.datasets.datasets.webvid_datasets import WebvidDataset
 @registry.register_builder("webvid")
 class WebvidBuilder(BaseDatasetBuilder):
     train_dataset_cls = WebvidDataset
-    DATASET_CONFIG_DICT = {"default": "configs/datasets/webvid/defaults.yaml"}
+    DATASET_CONFIG_DICT = {"default": "configs/datasets/MMLSCU/defaults.yaml"}
     
     def _download_ann(self):
         pass
