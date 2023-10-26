@@ -1,6 +1,6 @@
-# MM4CD
+# MM4CD:MultiModal Four Comment Understanding Tasks model
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/model.png" alt="Video-LLaMA" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figs/model.png" alt="MM4CD" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 
