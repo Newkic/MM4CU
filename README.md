@@ -3,7 +3,7 @@
 
 ## 1.Dataset
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/sample_v1.pdf" alt="MM4CD" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figs/samples_v1.pdf" alt="MM4CD" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 ## 2.Model
