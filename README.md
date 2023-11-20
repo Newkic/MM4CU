@@ -124,6 +124,8 @@ If you want to train our model from scratch, run the following command.
 ```
 python MM4CU/runners/train.py
 ```
+If you want to run your own dataset or change the parameter configuration, modify the configuration file in the train_configs directory.
+
 
 
 
