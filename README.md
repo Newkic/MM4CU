@@ -109,6 +109,10 @@ Here we give a sample annotation of some data sets, where "0:00:01" represents t
     ],
 ]
 ```
+the emoji id "425618" stands for the emoji shown below:
+<p align="center" width="30%">
+<a target="_blank"><img src="figs/425618.png" alt="emoji" style="width: 50%; min-width: 50px; display: block; margin: auto;"></a>
+</p>
 ## 2.Model
 ### MM4CU:MultiModal Four Comment Understanding Tasks model
 <p align="center" width="100%">
