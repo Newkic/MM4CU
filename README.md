@@ -120,6 +120,10 @@ Here we give a sample annotation of some data sets, where "0:00:01" represents t
 ```
 conda env create -f environment.yml
 ```
+If you want to train our model from scratch, run the following command.
+```
+python MM4CU/runners/train.py
+```
 
 
 
