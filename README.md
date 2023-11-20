@@ -3,7 +3,7 @@
 
 ## 1.Dataset
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/sample.PNG" alt="MM4CD" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figs/sample.png" alt="MM4CD" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 ### 1.1 Four Live Streaming Comment Understanding tasks
@@ -110,11 +110,16 @@ Here we give a sample annotation of some data sets, where "0:00:01" represents t
 ]
 ```
 ## 2.Model
-MM4CU:MultiModal Four Comment Understanding Tasks model
+### MM4CU:MultiModal Four Comment Understanding Tasks model
 <p align="center" width="100%">
 <a target="_blank"><img src="figs/model.PNG" alt="MM4CD" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
+### Training
+#### Environment
+```
+conda env create -f environment.yml
+```
 
 
 
